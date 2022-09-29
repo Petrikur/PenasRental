@@ -1,3 +1,18 @@
+# Penas Rentals
+
+# Project
+
+This this a simple landing page example made with React and TailwindCSS. Main purpose of this page was to learn TailwindCSS library.  
+Next steps for developing this app is to add more functionality.
+
+
+## Usage
+Live demo is hosted in AWS S3 and can be found [here](http://penasgrill.s3-website.eu-north-1.amazonaws.com/). 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
