@@ -7,8 +7,7 @@ Next steps for developing this app is to add more functionality.
 
 
 ## Usage
-Live demo is hosted in AWS S3 and can be found [here](http://penasgrill.s3-website.eu-north-1.amazonaws.com/). 
-
+Live demo is hosted in AWS S3 and can be found [here](http://penasrentals.s3-website.eu-north-1.amazonaws.com/). 
 
 
 
